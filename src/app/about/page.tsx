@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page | R789 Gamee Download",
+  title: "About Page | R789 Game Download",
   description: "The R789 Game App is crafted for everyone. From beginners to skilled gamers.",
   // other metadata
 };
