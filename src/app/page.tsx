@@ -12,8 +12,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "R789 Game Download APK (Earn App) for Android in 2025",
+  description: "he R789 Game is a rapidly growing real-money earning app in Pakistan, gaining popularity in 2025 due to its engaging gameplay",
   // other metadata
 };
 
